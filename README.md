@@ -1,4 +1,4 @@
-# Todo List App - Backend API
+# Nooro Todo List App - Backend API
 
 A simple REST API backend for a Todo List application, built with **Express.js**, **TypeScript**, **Prisma ORM**, and **MySQL**. This API provides basic task management functionality with database operations and fundamental error handling.
 
